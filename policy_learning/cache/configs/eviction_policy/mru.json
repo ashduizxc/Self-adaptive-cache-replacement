@@ -1,0 +1,8 @@
+{
+  "eviction_policy": {
+    "policy_type": "greedy1",
+    "scorer": {
+        "type": "mru"
+    }
+  }
+}
